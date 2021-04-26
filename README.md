@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @EdwardMan917.
+- 📃 My tech stack includes (experience in descending order): Python(Django/Flask), Java(Spring), JavaScript(React/Express), CSS, C#
+- 👀 I’m interested in building web applications with different ideas and trying out new technologies.
+- 🌱 I’m currently learning to build mobile application with Flutter and web services with NodeJS/ExpressJS.
