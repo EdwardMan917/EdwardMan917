@@ -2,7 +2,6 @@
   <img src="https://raw.githubusercontent.com/EdwardMan917/EdwardMan917/master/images/logo.png" width="120px"/>
   <p align="center">“It always seems impossible until it’s done.” </p>
 </p>
-<br/>
 <h3> Languages: </h3>
 <p style="display:flex; flex-direction: row; justify-content: center;">
     <img style="margin-left:10px;" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
@@ -14,7 +13,6 @@
     <img style="margin-left:10px;" src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
     <img style="margin-left:10px;" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
 </p>
-<br/>
 <h3> Frameworks: </h3>
 <p style="display:flex; flex-direction: row; justify-content: center;">
     <img style="margin-left:10px;" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
@@ -25,7 +23,6 @@
     <img style="margin-left:10px;" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
     <img style="margin-left:10px;" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
 </p>
-<br/>
 <h3> Tools: </h3>
 <p style="display:flex; flex-direction: row; justify-content: center;">
     <img style="margin-left:10px;" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
